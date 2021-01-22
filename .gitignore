@@ -6,3 +6,9 @@
 *.tfstate.*
 *.zip*
 *.tfvars
+
+# lock files
+.terraform.lock*
+
+# svg graph output
+*.svg
